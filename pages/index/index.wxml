@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <text class="text" bindtap="scale">123</text>
+</view>
